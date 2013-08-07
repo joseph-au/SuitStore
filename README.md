@@ -8,10 +8,10 @@ Kohana
 
 The following kohana features were used.
 
--MVC
--Routing
--Session
--Forms
--Validation
--HTTP GET/POST (to interact with couchDB)
+*MVC
+*Routing
+*Session
+*Forms
+*Validation
+*HTTP GET/POST (to interact with couchDB)
 
