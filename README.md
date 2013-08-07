@@ -6,7 +6,7 @@ This is a simple web application developed using the Kohana framework and couchD
 Kohana
 ========
 
-The following kohana features were used.
+The following kohana features were used
 
   -MVC
   -Routing
